@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b901dcfeeb293ed4fa0f51b1c8555c07
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Castal Street
+  fontNames:
+  - Castal Street
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32020fff1da800746a17b6166fea2dd2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
